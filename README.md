@@ -64,3 +64,13 @@ Following the removal of missing values, conduct a brief recoding/one-hot encodi
 I used RStudio (2022.07.1) as my statistical software for this activity. The wrangling and analyses conducted in the reposited files required the installation and use of several R packages including readr, tidyr, and dplyr. 
 
 The attached document files were created in Microsoft Word, where tables and regression outputs in the R Console were copy-and-pasted. Another word document file such as .rtf, .txt, .pages, or Google Document would be equally as effective. These word documents were then exported as .pdf files for best distribution.
+
+## Other Requirements
+
+### Time
+
+This acitivity spanned roughly 2-3 weeks in length. However, wrangling, analysis, and documentation took roughly 5-8 hours total. 
+
+### Computing 
+
+The wrangling, analysis, and documentation required of this activity was done on macOS Monterey v 12.6 with a 2.6 GHz 6-Core Intel Core i7 processer and 16 GB 2400 MHz DDR4 memory. 
