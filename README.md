@@ -30,27 +30,27 @@ Statistics Canada. 2020. General Social Survey, Cycle 31, 2017 [Canada]: Family 
     <th>Description</th> 
   </tr>
   <tr>
+    <td>RRWM_Instr_CodeOutputs_YT.pdf</td>
+     <td>Document which contains instructions, tables, and logit regression output of original code           </td>
+  <tr/>
+  <tr>
     <td>RRWM_DataWrangling.R</td>
     <td>Contains R code to process data for analysis</td>
   </tr>
   <tr>
     <td>RRWM_DescStats.R</td>
-    <td>Contains R code which creates frequency and proportion tables of predictor variables</td> 
-  </tr>
-  <tr>
-    <td>RRWM_Instr_CodeOutputs_YT.pdf</td>
-     <td>Document which contains instructions, tables, and logit regression output of original code           </td>
-  <tr/>
-  <tr>
+    <td>Contains R code which creates frequency and proportion tables of predictor variables shown in RRWM_CodeOutputs_NZ.pdf</td>
+   <tr>
     <td>RRWM_CodeOutputs_NZ.pdf</td>
     <td>Document which contains table and logit regression output of reproduced code–this differs from original code</td>
   </tr>
+  </tr>
   <tr>
     <td>RRWM_Reprod.R</td>
-    <td>Contains R code which successfully reproduces the original code and identifies a value assignment error</td>
+    <td>Contains R code which successfully reproduces the RRWM_Instr_CodeOutputs_YT.pdf outputs</td>
   <tr>  
     <td>RRWM_RepDiffs.pdf</td>
-    <td>Document which outlines differences between original code and reproduced code; classifies activty reproducibility</td>
+    <td>Document which outlines differences between original code and reproduced code and identifies minor value assignment error; classifies activty reproducibility</td>
   </tr>
 </table>
 
