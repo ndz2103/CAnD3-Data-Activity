@@ -50,7 +50,7 @@ Statistics Canada. 2020. General Social Survey, Cycle 31, 2017 [Canada]: Family 
     <td>Contains R code which successfully reproduces the RRWM_Instr_CodeOutputs_YT.pdf outputs</td>
   <tr>  
     <td>RRWM_RepDiffs.pdf</td>
-    <td>Document which outlines differences between original code and reproduced code and identifies minor value assignment error; classifies activty reproducibility</td>
+    <td>Document which outlines differences between original code and reproduced code and identifies minor value assignment error; classifies activity reproducibility</td>
   </tr>
 </table>
 
